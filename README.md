@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm KV</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right"src="https://cdn.pixabay.com/animation/2022/08/06/11/56/11-56-56-209_512.gif" hieght="200" width="200">
+- 🔭 currently working on a pesonal website *PET NET*<br>
+- 🌱Currently learning *BACK-END Development*<br>
+- 📫Reach me *karanrattan0420@gmail.com*<br>
+
