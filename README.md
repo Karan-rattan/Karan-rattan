@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Karan-rattan/Karan-rattan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm KV</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right"src="https://cdn.pixabay.com/animation/2022/08/06/11/56/11-56-56-209_512.gif" hieght="200" width="200">
